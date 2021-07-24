@@ -8,7 +8,7 @@
      <br>
         Eiii, turma teens! Que alegria fazer parte da trajetória de vocês!😃
   <h2 align="center">
-  <p align="center">{Profa} Tai Bomfim <p>
+  <p align="center">{Profa} Tassi Bomfim <p>
   </h2>
     <br>
 
