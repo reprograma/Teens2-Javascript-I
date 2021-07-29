@@ -62,4 +62,3 @@ const cadastros = {
 // valor null (nulo)
 const valorDoBozo = null; 
 console.log(valorDoBozo); 
-
